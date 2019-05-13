@@ -62,5 +62,3 @@ typings/
 
 # parcel build cache
 .cache
-
-dist

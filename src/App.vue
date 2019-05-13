@@ -5,6 +5,16 @@
         <md-whiteframe md-elevation="3">
             <md-toolbar>
 
+                <md-button
+                    class="md-icon-button"
+                    href="https://github.com/Xmader/flac-split"
+                >
+                    <md-icon
+                        md-src="./lib/icon-github.svg"
+                        style="top: -5px;"
+                    ></md-icon>
+                </md-button>
+
                 <h2
                     class="md-title"
                     style="flex: 1"
